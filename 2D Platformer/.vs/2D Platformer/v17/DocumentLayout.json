@@ -1,0 +1,295 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\2D Platformer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|c:\\users\\dell\\2d platformer\\assets\\scripts\\shadow caster 2d creator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shadow caster 2d creator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|C:\\Users\\DELL\\2D Platformer\\assets\\scripts\\particlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\particlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|C:\\Users\\DELL\\2D Platformer\\assets\\scripts\\movementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|C:\\Users\\DELL\\2D Platformer\\assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA472EA-573E-FA6A-006A-AB3EA2A28E56}|Assembly-CSharp-Editor.csproj|C:\\Users\\DELL\\2D Platformer\\assets\\scripts\\editor\\editor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA472EA-573E-FA6A-006A-AB3EA2A28E56}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\scripts\\editor\\editor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\2D Platformer\\Assets\\PauseMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\PauseMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|C:\\Users\\DELL\\2D Platformer\\assets\\scripts\\finishpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\finishpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|C:\\Users\\DELL\\2D Platformer\\assets\\scripts\\scenecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|C:\\Users\\DELL\\2D Platformer\\assets\\scripts\\volumesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\volumesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|C:\\Users\\DELL\\2D Platformer\\assets\\scripts\\portalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\portalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|C:\\Users\\DELL\\2D Platformer\\assets\\scripts\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|C:\\Users\\DELL\\2D Platformer\\assets\\scripts\\movingplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movingplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|C:\\Users\\DELL\\2D Platformer\\assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|C:\\Users\\DELL\\2D Platformer\\assets\\scripts\\movingobstacles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movingobstacles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\2D Platformer\\Assets\\Shadow Caster 2D Creator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Shadow Caster 2D Creator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\2D Platformer\\Assets\\LevelMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\LevelMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\2D Platformer\\Assets\\MainMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\MainMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SceneController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\2D Platformer\\Assets\\Scripts\\SceneController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneController.cs",
+              "ToolTip": "C:\\Users\\DELL\\2D Platformer\\Assets\\Scripts\\SceneController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T14:15:57.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PortalController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\2D Platformer\\Assets\\Scripts\\PortalController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PortalController.cs",
+              "ToolTip": "C:\\Users\\DELL\\2D Platformer\\Assets\\Scripts\\PortalController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PortalController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwDAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T11:11:11.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CheckPoint.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\2D Platformer\\Assets\\Scripts\\CheckPoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CheckPoint.cs",
+              "ToolTip": "C:\\Users\\DELL\\2D Platformer\\Assets\\Scripts\\CheckPoint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CheckPoint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T13:32:13.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\2D Platformer\\Assets\\Scripts\\GameController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameController.cs",
+              "ToolTip": "C:\\Users\\DELL\\2D Platformer\\Assets\\Scripts\\GameController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:13:22.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovementController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\2D Platformer\\Assets\\Scripts\\MovementController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MovementController.cs",
+              "ToolTip": "C:\\Users\\DELL\\2D Platformer\\Assets\\Scripts\\MovementController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MovementController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T15:15:59.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParticleController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\2D Platformer\\Assets\\Scripts\\ParticleController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ParticleController.cs",
+              "ToolTip": "C:\\Users\\DELL\\2D Platformer\\Assets\\Scripts\\ParticleController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ParticleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:00:31.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Shadow Caster 2D Creator.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\2D Platformer\\Assets\\Scripts\\Shadow Caster 2D Creator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Shadow Caster 2D Creator.cs",
+              "ToolTip": "C:\\Users\\DELL\\2D Platformer\\Assets\\Scripts\\Shadow Caster 2D Creator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Shadow Caster 2D Creator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T23:42:58.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FinishPoint.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\2D Platformer\\Assets\\Scripts\\FinishPoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FinishPoint.cs",
+              "ToolTip": "C:\\Users\\DELL\\2D Platformer\\Assets\\Scripts\\FinishPoint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FinishPoint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T14:16:18.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VolumeSettings.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\2D Platformer\\Assets\\Scripts\\VolumeSettings.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\VolumeSettings.cs",
+              "ToolTip": "C:\\Users\\DELL\\2D Platformer\\Assets\\Scripts\\VolumeSettings.cs",
+              "RelativeToolTip": "Assets\\Scripts\\VolumeSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T16:45:03.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\2D Platformer\\Assets\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\DELL\\2D Platformer\\Assets\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\MainMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T17:23:21.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LevelMenu.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\2D Platformer\\Assets\\LevelMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\LevelMenu.cs",
+              "ToolTip": "C:\\Users\\DELL\\2D Platformer\\Assets\\LevelMenu.cs",
+              "RelativeToolTip": "Assets\\LevelMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T19:55:16.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PauseMenu.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\2D Platformer\\Assets\\PauseMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\PauseMenu.cs",
+              "ToolTip": "C:\\Users\\DELL\\2D Platformer\\Assets\\PauseMenu.cs",
+              "RelativeToolTip": "Assets\\PauseMenu.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T21:16:24.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Editor.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\2D Platformer\\Assets\\Scripts\\Editor\\Editor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Editor\\Editor.cs",
+              "ToolTip": "C:\\Users\\DELL\\2D Platformer\\Assets\\Scripts\\Editor\\Editor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Editor\\Editor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T00:20:11.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MovingPlatform.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\2D Platformer\\Assets\\Scripts\\MovingPlatform.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MovingPlatform.cs",
+              "ToolTip": "C:\\Users\\DELL\\2D Platformer\\Assets\\Scripts\\MovingPlatform.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MovingPlatform.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAowFUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:18:39.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\2D Platformer\\Assets\\Scripts\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraController.cs",
+              "ToolTip": "C:\\Users\\DELL\\2D Platformer\\Assets\\Scripts\\CameraController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:09:03.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MovingObstacles.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\2D Platformer\\Assets\\Scripts\\MovingObstacles.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MovingObstacles.cs",
+              "ToolTip": "C:\\Users\\DELL\\2D Platformer\\Assets\\Scripts\\MovingObstacles.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MovingObstacles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T06:29:58.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Shadow Caster 2D Creator.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\2D Platformer\\Assets\\Shadow Caster 2D Creator.cs",
+              "RelativeDocumentMoniker": "Assets\\Shadow Caster 2D Creator.cs",
+              "ToolTip": "C:\\Users\\DELL\\2D Platformer\\Assets\\Shadow Caster 2D Creator.cs",
+              "RelativeToolTip": "Assets\\Shadow Caster 2D Creator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T13:20:42.671Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
