@@ -1,1 +1,1 @@
-![Game Demo](Demonstrate Video\happyblock.gif)
+![Game Demo](DemoVideo/happyblock.gif)
